@@ -1,0 +1,101 @@
+id,ubicaciones,niveles_llenado,estados,informacion_recolecciones
+BOTE-001,Querétaro - Centro,58,Mantenimiento,2025-02-19
+BOTE-002,Querétaro - Hércules,83,Operativo,2024-08-26
+BOTE-003,Querétaro - Satélite,100,Mantenimiento,2024-11-27
+BOTE-004,Querétaro - Jurica,78,Fuera de Servicio,2024-05-16
+BOTE-005,Querétaro - El Refugio,84,Operativo,2025-01-25
+BOTE-006,Querétaro - San Pablo,72,Operativo,2024-12-20
+BOTE-007,Querétaro - San Pablo,3,Fuera de Servicio,2025-01-21
+BOTE-008,Querétaro - El Refugio,79,Fuera de Servicio,2024-12-04
+BOTE-009,Querétaro - Hércules,39,Mantenimiento,2024-03-18
+BOTE-010,Querétaro - Jurica,15,Operativo,2025-02-22
+BOTE-011,Querétaro - San Pablo,69,Mantenimiento,2024-05-23
+BOTE-012,Querétaro - El Refugio,83,Fuera de Servicio,2025-01-31
+BOTE-013,Querétaro - Juriquilla,80,Mantenimiento,2024-12-13
+BOTE-014,Querétaro - Santa Rosa Jáuregui,30,Operativo,2025-02-14
+BOTE-015,Querétaro - Hércules,43,Mantenimiento,2025-01-22
+BOTE-016,Querétaro - Jurica,16,Fuera de Servicio,2024-08-05
+BOTE-017,Querétaro - Santa Rosa Jáuregui,58,Fuera de Servicio,2025-03-09
+BOTE-018,Querétaro - Milenio III,82,Fuera de Servicio,2024-01-29
+BOTE-019,Querétaro - San Pablo,96,Fuera de Servicio,2024-04-09
+BOTE-020,Querétaro - Candiles,23,Fuera de Servicio,2024-03-09
+BOTE-021,Querétaro - Hércules,70,Mantenimiento,2024-09-29
+BOTE-022,Querétaro - Candiles,1,Mantenimiento,2024-09-06
+BOTE-023,Querétaro - Centro,25,Operativo,2024-06-16
+BOTE-024,Querétaro - El Refugio,3,Mantenimiento,2024-02-03
+BOTE-025,Querétaro - Satélite,62,Operativo,2024-01-05
+BOTE-026,Querétaro - San Pablo,8,Mantenimiento,2024-11-03
+BOTE-027,Querétaro - Jurica,23,Fuera de Servicio,2025-03-28
+BOTE-028,Querétaro - San Pablo,76,Mantenimiento,2025-01-11
+BOTE-029,Querétaro - Centro,88,Operativo,2024-11-07
+BOTE-030,Querétaro - Candiles,94,Operativo,2024-12-27
+BOTE-031,Querétaro - San Pablo,38,Operativo,2024-11-15
+BOTE-032,Querétaro - Candiles,44,Mantenimiento,2024-11-11
+BOTE-033,Querétaro - Centro,30,Operativo,2024-04-22
+BOTE-034,Querétaro - Juriquilla,85,Mantenimiento,2025-01-17
+BOTE-035,Querétaro - Santa Rosa Jáuregui,48,Operativo,2025-01-07
+BOTE-036,Querétaro - Candiles,79,Mantenimiento,2025-02-10
+BOTE-037,Querétaro - San Pablo,86,Fuera de Servicio,2024-03-03
+BOTE-038,Querétaro - Milenio III,9,Mantenimiento,2024-02-02
+BOTE-039,Querétaro - Satélite,76,Mantenimiento,2024-01-15
+BOTE-040,Querétaro - Santa Rosa Jáuregui,3,Fuera de Servicio,2024-09-08
+BOTE-041,Querétaro - Santa Rosa Jáuregui,27,Mantenimiento,2024-02-29
+BOTE-042,Querétaro - El Refugio,12,Fuera de Servicio,2024-06-09
+BOTE-043,Querétaro - Candiles,7,Fuera de Servicio,2024-04-13
+BOTE-044,Querétaro - San Pablo,31,Mantenimiento,2024-02-11
+BOTE-045,Querétaro - Hércules,16,Operativo,2025-01-08
+BOTE-046,Querétaro - Santa Rosa Jáuregui,94,Mantenimiento,2024-12-06
+BOTE-047,Querétaro - San Pablo,34,Fuera de Servicio,2025-01-15
+BOTE-048,Querétaro - Hércules,42,Operativo,2024-03-29
+BOTE-049,Querétaro - Centro,90,Operativo,2025-01-01
+BOTE-050,Querétaro - San Pablo,64,Operativo,2024-08-12
+BOTE-051,Querétaro - Candiles,96,Fuera de Servicio,2024-01-30
+BOTE-052,Querétaro - Juriquilla,70,Fuera de Servicio,2024-12-15
+BOTE-053,Querétaro - Hércules,6,Mantenimiento,2025-01-20
+BOTE-054,Querétaro - Santa Rosa Jáuregui,83,Operativo,2024-11-02
+BOTE-055,Querétaro - Centro,25,Operativo,2024-02-28
+BOTE-056,Querétaro - San Pablo,46,Fuera de Servicio,2024-08-20
+BOTE-057,Querétaro - Jurica,44,Fuera de Servicio,2024-10-24
+BOTE-058,Querétaro - Jurica,85,Mantenimiento,2024-06-24
+BOTE-059,Querétaro - Hércules,82,Fuera de Servicio,2024-05-23
+BOTE-060,Querétaro - Milenio III,55,Mantenimiento,2024-12-12
+BOTE-061,Querétaro - Satélite,22,Fuera de Servicio,2024-06-10
+BOTE-062,Querétaro - Candiles,44,Mantenimiento,2024-06-30
+BOTE-063,Querétaro - Hércules,96,Mantenimiento,2024-02-13
+BOTE-064,Querétaro - San Pablo,66,Fuera de Servicio,2024-06-26
+BOTE-065,Querétaro - Santa Rosa Jáuregui,95,Fuera de Servicio,2024-03-25
+BOTE-066,Querétaro - Hércules,78,Fuera de Servicio,2024-05-05
+BOTE-067,Querétaro - Jurica,99,Fuera de Servicio,2024-12-22
+BOTE-068,Querétaro - Candiles,39,Operativo,2025-02-07
+BOTE-069,Querétaro - Milenio III,49,Fuera de Servicio,2024-12-27
+BOTE-070,Querétaro - Satélite,17,Operativo,2025-03-14
+BOTE-071,Querétaro - Satélite,33,Mantenimiento,2024-08-01
+BOTE-072,Querétaro - San Pablo,53,Fuera de Servicio,2025-02-19
+BOTE-073,Querétaro - Centro,97,Fuera de Servicio,2025-02-27
+BOTE-074,Querétaro - Candiles,15,Fuera de Servicio,2024-11-07
+BOTE-075,Querétaro - Jurica,89,Mantenimiento,2024-03-28
+BOTE-076,Querétaro - San Pablo,79,Operativo,2024-04-10
+BOTE-077,Querétaro - Juriquilla,63,Fuera de Servicio,2024-10-24
+BOTE-078,Querétaro - Candiles,42,Operativo,2024-02-20
+BOTE-079,Querétaro - Hércules,89,Operativo,2024-12-14
+BOTE-080,Querétaro - San Pablo,28,Mantenimiento,2024-03-17
+BOTE-081,Querétaro - Centro,95,Mantenimiento,2025-01-03
+BOTE-082,Querétaro - Juriquilla,44,Operativo,2024-08-09
+BOTE-083,Querétaro - Centro,92,Fuera de Servicio,2024-09-15
+BOTE-084,Querétaro - Juriquilla,95,Mantenimiento,2024-05-29
+BOTE-085,Querétaro - San Pablo,13,Fuera de Servicio,2024-06-04
+BOTE-086,Querétaro - Hércules,30,Mantenimiento,2025-03-24
+BOTE-087,Querétaro - Juriquilla,34,Mantenimiento,2024-10-06
+BOTE-088,Querétaro - Santa Rosa Jáuregui,89,Fuera de Servicio,2024-06-03
+BOTE-089,Querétaro - San Pablo,64,Operativo,2024-02-24
+BOTE-090,Querétaro - Milenio III,21,Fuera de Servicio,2024-06-10
+BOTE-091,Querétaro - San Pablo,78,Operativo,2024-03-15
+BOTE-092,Querétaro - Jurica,38,Fuera de Servicio,2024-06-25
+BOTE-093,Querétaro - Candiles,65,Operativo,2024-09-01
+BOTE-094,Querétaro - Hércules,39,Operativo,2025-02-20
+BOTE-095,Querétaro - Candiles,72,Operativo,2024-10-27
+BOTE-096,Querétaro - Satélite,57,Mantenimiento,2024-01-08
+BOTE-097,Querétaro - El Refugio,37,Fuera de Servicio,2024-04-04
+BOTE-098,Querétaro - Candiles,36,Operativo,2024-04-30
+BOTE-099,Querétaro - Candiles,2,Operativo,2025-03-03
+BOTE-100,Querétaro - Centro,27,Fuera de Servicio,2024-11-22
